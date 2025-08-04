@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mimrpim
 - 👀 I’m interested in programmimg
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on stupid programs
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: mimrpim@gmail.com
-- 😄 Pronouns: nothing
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I am ghost
 
 <!---
