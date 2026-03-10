@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @mimrpim
 - 👀 I’m interested in programmimg
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently working on [Gamesa](github.com/mimrpimstudios/gamesa)
 - 📫 How to reach me: mimrpim@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am ghost
+- ⚡ Fun fact: My notebook was spilled in water and working
 
 <!---
 mimrpim/mimrpim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
