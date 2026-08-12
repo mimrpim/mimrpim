@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimrpim
 - 👀 I’m interested in programmimg
-- 🌱 I’m currently working on [Gamesa](github.com/mimrpimstudios/gamesa)
+- 🌱 I’m currently working on [Gamesa](http://github.com/mimrpimstudios/gamesa)
 - 📫 How to reach me: mimrpim@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My notebook was spilled in water and working
