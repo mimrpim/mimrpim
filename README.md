@@ -1,3 +1,6 @@
+
+<img src="https://github.com/mimrpim/mimrpim/blob/main/IMG_0306.png?raw=true" alt="" height="1600" />
+
 - 👋 Hi, I’m @mimrpim
 - 👀 I’m interested in programming
 - 🌱 I’m currently working on [Gamesa](http://github.com/mimrpimstudios/gamesa)
